@@ -1,3 +1,2 @@
-# Halstead-Metrix
-Halstead metrics for Pascal in C++, 
-framework: Qt - http://www.qt.io/qt-framework/
+# Метрика Холстеда (Pascal)
+Метрика Холстеда для языка Pascal (язык написания: C++, фреймворк: Qt).
